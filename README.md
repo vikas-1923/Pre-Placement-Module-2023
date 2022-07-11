@@ -8,7 +8,7 @@
 
 ## Coding Profiles
 - LeetCode: [VIKAS_TIWARI](https://leetcode.com/vikas_1923/)
-- HackerRank: [VIKAS_TIWARI](https://www.hackerrank.com/HackerRankUserName)
+- HackerRank: [VIKAS_TIWARI](https://www.hackerrank.com/Cse_1923_c_56)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
