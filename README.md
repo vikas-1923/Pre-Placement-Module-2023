@@ -1,9 +1,9 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
+- Name: Vikas Tiwari
+- University Roll No.:1900290100193
+- Branch:CSE
+- Section:C
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
