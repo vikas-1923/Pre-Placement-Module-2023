@@ -7,7 +7,7 @@
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
-- LeetCode: [VIKAS_TIWARI]([https://leetcode.com/YourLeetCodeUserName/](https://leetcode.com/vikas_1923/))
+- LeetCode: [VIKAS_TIWARI](https://leetcode.com/vikas_1923/)
 - HackerRank: [VIKAS_TIWARI](https://www.hackerrank.com/HackerRankUserName)
 
 ## Placement Module
